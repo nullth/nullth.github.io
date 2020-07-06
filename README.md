@@ -1,0 +1,2 @@
+# nullth.github.io
+blog
